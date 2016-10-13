@@ -1,0 +1,13 @@
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.apk
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize-Signed.apk
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.Abstractions.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.Abstractions.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\Plugin.ScreenSize.Android.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\Plugin.ScreenSize.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\android\bin\Plugin.ScreenSize.apk
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\R.cs.flag
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\obj\Debug\uploadflags.txt
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Android\bin\Debug\Plugin.ScreenSize.Abstractions.dll.mdb

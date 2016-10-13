@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.ScreenSize.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.ScreenSize.Abstractions.IScreenSize">
+            <summary>
+            Interface for ScreenSize
+            </summary>
+        </member>
+    </members>
+</doc>

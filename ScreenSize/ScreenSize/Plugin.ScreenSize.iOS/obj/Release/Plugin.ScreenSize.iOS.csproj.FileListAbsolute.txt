@@ -1,0 +1,10 @@
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.XML
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.Abstractions.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.Abstractions.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.Abstractions.xml
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\obj\Release\optimized\
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\obj\Release\Plugin.ScreenSize.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\obj\Release\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\obj\Release\Plugin.ScreenSize.dll.mdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.dll.mdb

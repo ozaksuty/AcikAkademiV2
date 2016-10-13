@@ -1,0 +1,8 @@
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.XML
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\obj\Release\Plugin.ScreenSize.Abstractions.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\obj\Release\Plugin.ScreenSize.Abstractions.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\obj\Release\Plugin.ScreenSize.Abstractions.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\obj\Release\Plugin.ScreenSize.Abstractions.dll.mdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll.mdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.ScreenSize</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.ScreenSize.CrossScreenSize">
+            <summary>
+            Cross platform ScreenSize implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.ScreenSize.CrossScreenSize.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Plugin.ScreenSize.ScreenSizeImplementation">
+            <summary>
+            Implementation for ScreenSize
+            </summary>
+        </member>
+    </members>
+</doc>

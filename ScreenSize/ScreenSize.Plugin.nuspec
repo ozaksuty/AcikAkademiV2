@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata minClientVersion="2.8.3">
+		<id>AcikAkademi.Plugin.ScreenSize</id>
+		<version>2.0.0</version>
+		<title>AcikAkademi ScreenSize Plugin for Xamarin and Windows</title>
+		<authors>Yiğit Özaksüt</authors>
+		<owners>Yiğit Özaksüt</owners>
+    <licenseUrl>https://github.com/ozaksuty/AcikAkademi</licenseUrl>
+    <projectUrl>https://github.com/ozaksuty/AcikAkademi</projectUrl>
+		<iconUrl>https://www.acikakademi.com/portal/_assets/img/logo.png</iconUrl>
+
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>
+         ScreenWidth, ScreenHeight ve Platform adını alan plugin. (Test)
+		</description>
+		<summary>Açık Akademi Xamarin Eğitimleri Ders 1 Plugin Yapımı</summary>
+		<tags>xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios</tags>
+		<dependencies>
+			<group targetFramework="net">
+			</group>
+			<group targetFramework="win">
+			</group>
+			<group targetFramework="wp">
+			</group>
+			<group targetFramework="wpa">
+			</group>
+			<group targetFramework="MonoAndroid">
+			</group>
+			<group targetFramework="Xamarin.iOS10">
+			</group>
+			<group targetFramework="Xamarin.Mac20">
+			</group>
+			<group targetFramework="portable-net45+win+wpa81+wp80">
+			</group>
+			<group targetFramework="uap">
+			</group>
+			<group targetFramework="dotnet">
+			</group>
+		</dependencies>
+	</metadata>
+	<files>
+		<!--Core-->
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.dll" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.xml" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.pdb" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.ScreenSize.Abstractions.pdb" />		
+		
+		<!--dotnet-->
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.dll" target="lib\dotnet\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.xml" target="lib\dotnet\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize\bin\Release\Plugin.ScreenSize.pdb" target="lib\dotnet\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\dotnet\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\dotnet\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\dotnet\Plugin.ScreenSize.Abstractions.pdb" />
+		
+		<!--Win Phone Silverlight-->
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone8\bin\Release\Plugin.ScreenSize.dll" target="lib\wp8\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone8\bin\Release\Plugin.ScreenSize.xml" target="lib\wp8\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone8\bin\Release\Plugin.ScreenSize.pdb" target="lib\wp8\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\wp8\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\wp8\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\wp8\Plugin.ScreenSize.Abstractions.pdb" />
+		
+		<!--Win Phone 81-->
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone81\bin\Release\Plugin.ScreenSize.dll" target="lib\wpa81\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone81\bin\Release\Plugin.ScreenSize.xml" target="lib\wpa81\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsPhone81\bin\Release\Plugin.ScreenSize.pdb" target="lib\wpa81\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\wpa81\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\wpa81\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\wpa81\Plugin.ScreenSize.Abstractions.pdb" />
+		
+		<!--WinStore-->
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsStore\bin\Release\Plugin.ScreenSize.dll" target="lib\win8\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsStore\bin\Release\Plugin.ScreenSize.xml" target="lib\win8\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.WindowsStore\bin\Release\Plugin.ScreenSize.pdb" target="lib\win8\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\win8\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\win8\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\win8\Plugin.ScreenSize.Abstractions.pdb" />
+
+		<!--Xamarin.Android-->
+		<file src="ScreenSize\Plugin.ScreenSize.Android\bin\Release\Plugin.ScreenSize.dll" target="lib\MonoAndroid10\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Android\bin\Release\Plugin.ScreenSize.xml" target="lib\MonoAndroid10\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Android\bin\Release\Plugin.ScreenSize.pdb" target="lib\MonoAndroid10\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\MonoAndroid10\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\MonoAndroid10\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\MonoAndroid10\Plugin.ScreenSize.Abstractions.pdb" />
+
+		<!--Xamarin.iOS-->
+		<file src="ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.dll" target="lib\Xamarin.iOS10\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.iOS\bin\iPhone\Release\Plugin.ScreenSize.xml" target="lib\Xamarin.iOS10\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\Xamarin.iOS10\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\Xamarin.iOS10\Plugin.ScreenSize.Abstractions.xml" />
+
+		<!--uap-->
+		<file src="ScreenSize\Plugin.ScreenSize.UWP\bin\Release\Plugin.ScreenSize.dll" target="lib\UAP10\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.UWP\bin\Release\Plugin.ScreenSize.xml" target="lib\UAP10\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.UWP\bin\Release\Plugin.ScreenSize.pdb" target="lib\UAP10\Plugin.ScreenSize.pdb" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\UAP10\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\UAP10\Plugin.ScreenSize.Abstractions.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.pdb" target="lib\UAP10\Plugin.ScreenSize.Abstractions.pdb" />
+		
+		<!--Xamarin.Mac
+		<file src="ScreenSize\Plugin.ScreenSize.Mac\bin\iPhone\Release\Plugin.ScreenSize.dll" target="lib\Xamarin.Mac20\Plugin.ScreenSize.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Mac\bin\iPhone\Release\Plugin.ScreenSize.xml" target="lib\Xamarin.Mac20\Plugin.ScreenSize.xml" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.dll" target="lib\Xamarin.Mac20\Plugin.ScreenSize.Abstractions.dll" />
+		<file src="ScreenSize\Plugin.ScreenSize.Abstractions\bin\Release\Plugin.ScreenSize.Abstractions.xml" target="lib\Xamarin.Mac20\Plugin.ScreenSize.Abstractions.xml" />
+        -->
+	</files>
+</package>

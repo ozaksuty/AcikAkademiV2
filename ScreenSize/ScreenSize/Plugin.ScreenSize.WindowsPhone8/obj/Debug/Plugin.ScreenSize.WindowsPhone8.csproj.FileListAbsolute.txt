@@ -1,0 +1,7 @@
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\Bin\Debug\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\Bin\Debug\Plugin.ScreenSize.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\Bin\Debug\Plugin.ScreenSize.Abstractions.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\Bin\Debug\Plugin.ScreenSize.Abstractions.pdb
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\obj\Debug\Plugin.ScreenSize.WindowsPhone8.csprojResolveAssemblyReference.cache
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\obj\Debug\Plugin.ScreenSize.dll
+C:\Users\Yigit\Desktop\AcikAkademi\ScreenSize\ScreenSize\Plugin.ScreenSize.WindowsPhone8\obj\Debug\Plugin.ScreenSize.pdb
