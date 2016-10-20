@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="AcikAkademiV2Ders2.Droid">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCnHQOz-cQKq6Hed1R3UZB_8N45kKMUmik" />
+	</application>
+</manifest>

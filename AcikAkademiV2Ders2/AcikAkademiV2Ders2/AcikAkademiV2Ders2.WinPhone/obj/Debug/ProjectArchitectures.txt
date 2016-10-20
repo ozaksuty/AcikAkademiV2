@@ -1,0 +1,2 @@
+C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders2\AcikAkademiV2Ders2\AcikAkademiV2Ders2.WinPhone\AcikAkademiV2Ders2.WinPhone.csproj;neutral
+C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders2\AcikAkademiV2Ders2\AcikAkademiV2Ders2\AcikAkademiV2Ders2.csproj;neutral
