@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.LocalNotifications.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.LocalNotifications.Abstractions.ILocalNotifications">
+            <summary>
+            Local Notification Interface
+            </summary>
+        </member>
+        <member name="M:Plugin.LocalNotifications.Abstractions.ILocalNotifications.Show(System.String,System.String,System.Int32)">
+            <summary>
+            Show a local notification
+            </summary>
+            <param name="title">Title of the notification</param>
+            <param name="body">Body or description of the notification</param>
+            <param name="id">Id of the notification</param>
+        </member>
+        <member name="M:Plugin.LocalNotifications.Abstractions.ILocalNotifications.Show(System.String,System.String,System.Int32,System.DateTime)">
+            <summary>
+            Show a local notification at a specified time
+            </summary>
+            <param name="title">Title of the notification</param>
+            <param name="body">Body or description of the notification</param>
+            <param name="id">Id of the notification</param>
+            <param name="notifyTime">Time to show notification</param>
+        </member>
+        <member name="M:Plugin.LocalNotifications.Abstractions.ILocalNotifications.Cancel(System.Int32)">
+            <summary>
+            Cancel a local notification
+            </summary>
+            <param name="id">Id of the scheduled notification you'd like to cancel</param>
+        </member>
+    </members>
+</doc>

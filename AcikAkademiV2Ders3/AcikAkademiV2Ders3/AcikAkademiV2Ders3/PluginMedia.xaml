@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AcikAkademiV2Ders3.PluginMedia">
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout Spacing="10" Padding="10">
+        <Button x:Name="btnTakePhoto" Text="Take Photo" Clicked="onTakePhoto"></Button>
+        <Button x:Name="btnPickPhoto" Text="Pick Photo" Clicked="onPickPhoto"></Button>
+        <Button x:Name="btnTakeVideo" Text="Take Video" Clicked="onTakeVideo"></Button>
+        <Button x:Name="btnPickVideo" Text="Pick Video" Clicked="onPickVideo"></Button>
+        <Image x:Name="image"></Image>
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Share.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Share.Abstractions.BrowserOptions">
+            <summary>
+            Platform specific Browser Options
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.BrowserOptions.UseSafariWebViewController">
+            <summary>
+            iOS: Gets or Set to use the SFSafariWebViewController on iOS 9+ (recommended)
+            Default is true
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.BrowserOptions.UseSafairReaderMode">
+            <summary>
+            iOS: Gets or sets to use reader mode (good for markdown files)
+            Default is false
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.BrowserOptions.ChromeShowTitle">
+            <summary>
+            Android: Gets or sets to display title as well as url in chrome custom tabs
+            Default is true
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.BrowserOptions.ChromeToolbarColor">
+            <summary>
+            Android: Gets or sets the toolbar color of the chrome custom tabs
+            If null (default) will be default chrome color
+            </summary>
+        </member>
+        <member name="T:Plugin.Share.Abstractions.IShare">
+            <summary>
+            Interface for Share
+            </summary>
+        </member>
+        <member name="M:Plugin.Share.Abstractions.IShare.Share(System.String,System.String)">
+            <summary>
+            Simply share text on compatible services
+            </summary>
+            <param name="text">Text to share</param>
+            <param name="title">Title of popup on share (not included in message)</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.Abstractions.IShare.OpenBrowser(System.String,Plugin.Share.Abstractions.BrowserOptions)">
+            <summary>
+            Open a browser to a specific url
+            </summary>
+            <param name="url">Url to open</param>
+            <param name="options">Platform specific options</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.Abstractions.IShare.ShareLink(System.String,System.String,System.String)">
+            <summary>
+            Share a link url with compatible services
+            </summary>
+            <param name="url">Link to share</param>
+            <param name="message">Message to share</param>
+            <param name="title">Title of the popup</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.Abstractions.IShare.SetClipboardText(System.String,System.String)">
+            <summary>
+            Sets text on the clipboard
+            </summary>
+            <param name="text">Text to set</param>
+            <param name="label">Label to dislay (no required, Android only)</param>
+            <returns></returns>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.IShare.SupportsClipboard">
+            <summary>
+            Gets if clipboard is supported
+            </summary>
+        </member>
+        <member name="T:Plugin.Share.Abstractions.ShareColor">
+            <summary>
+            RGB values of 0-255 for shared
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.ShareColor.A">
+            <summary>
+            Alpha 0-255
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.ShareColor.R">
+            <summary>
+            Red 0-255
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.ShareColor.G">
+            <summary>
+            Green 0-255
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.Abstractions.ShareColor.B">
+            <summary>
+            Blue 0-255
+            </summary>
+        </member>
+    </members>
+</doc>

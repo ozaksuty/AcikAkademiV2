@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\acikakademiv2ders3\acikakademiv2ders3.windows\obj\debug\intermediatexaml\acikakademiv2ders3.windows.exe" HashGuid="036e9c39-ba37-8b54-2b8b-e0892bf4691c" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\acikakademiv2ders3\acikakademiv2ders3\bin\debug\acikakademiv2ders3.dll" HashGuid="121c78b8-f108-b82b-5bf3-3d66ee0fefb8" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xam.plugins.notifier.2.0.2\lib\win8\plugin.localnotifications.abstractions.dll" HashGuid="d160abda-3ec3-e837-8724-71293489694b" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xam.plugins.notifier.2.0.2\lib\win8\plugin.localnotifications.dll" HashGuid="7415920d-61f5-d357-2f44-e7c901d10071" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xam.plugin.media.2.3.0\lib\win8\plugin.media.abstractions.dll" HashGuid="ae244c5d-fb0b-f3fb-6b48-a0782f8af3ef" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xam.plugin.media.2.3.0\lib\win8\plugin.media.dll" HashGuid="c44d5b7a-8e18-a9ab-56b6-744cf0d603b0" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\plugin.share.4.0.3\lib\win8\plugin.share.abstractions.dll" HashGuid="a35d54a1-bf98-d236-ede4-c71a230bf677" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\plugin.share.4.0.3\lib\win8\plugin.share.dll" HashGuid="6232b818-4de3-f5e7-bcb1-060041799bba" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="be70b7f3-05ad-48ad-bda6-3e680e6b0d12" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders3\packages\xamarin.forms.2.3.2.127\lib\win81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

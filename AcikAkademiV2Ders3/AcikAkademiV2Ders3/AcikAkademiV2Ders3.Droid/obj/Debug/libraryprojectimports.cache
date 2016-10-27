@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.LocalNotifications\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Media\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Share\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.LocalNotifications\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Media\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Share\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.LocalNotifications.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Media.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Plugin.Share.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders3\AcikAkademiV2Ders3\AcikAkademiV2Ders3.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

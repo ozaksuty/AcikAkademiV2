@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AcikAkademiV2Ders3.PluginPushNotification">
+  <ContentPage.Content>
+    <StackLayout>
+      <Entry x:Name="txtTitle" Placeholder="Title"></Entry>
+      <Entry x:Name="txtMessage" Placeholder="Message"></Entry>
+      <Button Text="Send Local Push Notification!" Clicked="onSend"></Button>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.LocalNotifications</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.LocalNotifications.CrossLocalNotifications">
+            <summary>
+            Access Cross Local Notifictions
+            </summary>
+        </member>
+        <member name="P:Plugin.LocalNotifications.CrossLocalNotifications.Current">
+            <summary>
+            Gets the current platform specific ILocalNotifications implementation.
+            </summary>
+        </member>
+        <member name="T:Plugin.LocalNotifications.LocalNotificationsImplementation">
+            <summary>
+            Notifier implementation for iOS (iPad and iPhone)
+            </summary>
+        </member>
+        <member name="M:Plugin.LocalNotifications.LocalNotificationsImplementation.Show(System.String,System.String,System.Int32)">
+            <summary>
+            Show a local notification in the Notification Center.
+            </summary>
+            <param name="title">Title of the notification</param>
+            <param name="body">Body or description of the notificsation</param>
+            <param name="id">Id of notifications</param>
+        </member>
+        <member name="M:Plugin.LocalNotifications.LocalNotificationsImplementation.Show(System.String,System.String,System.Int32,System.DateTime)">
+            <summary>
+            Schedule a local notification in the Notification Center.
+            </summary>
+            <param name="title">Title of the notification</param>
+            <param name="body">Body or description of the notification</param>
+            <param name="id">Id of the notification</param>
+            <param name="notifyTime">The time you would like to schedule the notification for</param>
+        </member>
+        <member name="M:Plugin.LocalNotifications.LocalNotificationsImplementation.Cancel(System.Int32)">
+            <summary>
+            Show a local toast notification.  Notification will also appear in the Notification Center on Windows Phone 8.1.
+            </summary>
+            <param name="id">Id of the scheduled notification you'd like to cancel</param>
+        </member>
+    </members>
+</doc>

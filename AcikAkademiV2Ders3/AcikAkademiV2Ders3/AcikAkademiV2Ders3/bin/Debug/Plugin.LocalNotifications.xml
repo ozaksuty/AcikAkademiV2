@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.LocalNotifications</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.LocalNotifications.CrossLocalNotifications">
+            <summary>
+            Access Cross Local Notifictions
+            </summary>
+        </member>
+        <member name="P:Plugin.LocalNotifications.CrossLocalNotifications.Current">
+            <summary>
+            Gets the current platform specific ILocalNotifications implementation.
+            </summary>
+        </member>
+    </members>
+</doc>

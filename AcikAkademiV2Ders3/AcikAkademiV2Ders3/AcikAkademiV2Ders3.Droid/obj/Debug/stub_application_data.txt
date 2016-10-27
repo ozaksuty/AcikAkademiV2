@@ -1,0 +1,2 @@
+android.app.Application
+AcikAkademiV2Ders3.Droid

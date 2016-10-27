@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Share</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Share.ShareImplementation">
+            <summary>
+            Implementation for Share
+            </summary>
+        </member>
+        <member name="M:Plugin.Share.ShareImplementation.Init">
+            <summary>
+            For linker
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Plugin.Share.ShareImplementation.OpenBrowser(System.String,Plugin.Share.Abstractions.BrowserOptions)">
+            <summary>
+            Open a browser to a specific url
+            </summary>
+            <param name="url">Url to open</param>
+            <param name="options">Platform specific options</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.ShareImplementation.Share(System.String,System.String)">
+            <summary>
+            Simply share text on compatible services
+            </summary>
+            <param name="text">Text to share</param>
+            <param name="title">Title of popup on share (not included in message)</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.ShareImplementation.ShareLink(System.String,System.String,System.String)">
+            <summary>
+            Share a link url with compatible services
+            </summary>
+            <param name="url">Link to share</param>
+            <param name="message">Message to share</param>
+            <param name="title">Title of the popup</param>
+            <returns>awaitable Task</returns>
+        </member>
+        <member name="M:Plugin.Share.ShareImplementation.SetClipboardText(System.String,System.String)">
+            <summary>
+            Sets text on the clipboard
+            </summary>
+            <param name="text">Text to set</param>
+            <param name="label">Label to display (not required, Android only)</param>
+            <returns></returns>
+        </member>
+        <member name="P:Plugin.Share.ShareImplementation.SupportsClipboard">
+            <summary>
+            Gets if cliboard is supported
+            </summary>
+        </member>
+        <member name="T:Plugin.Share.CrossShare">
+            <summary>
+            Cross platform Share implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.Share.CrossShare.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+    </members>
+</doc>
