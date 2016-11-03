@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AcikAkademiV2Ders4.Views.TwitterPage">
+  <ContentPage.Content>
+    <StackLayout>
+      <StackLayout>
+        <Entry x:Name="txtTwitter"></Entry>
+        <Button Text="Search Hashtag" Clicked="onGetHashtag"></Button>
+        <Button Text="Search Tweet" Clicked="onGetTweet"></Button>
+      </StackLayout>
+      <ListView ItemsSource="{Binding .}">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ImageCell ImageSource="{Binding ProfilePicture}"
+                       Text="{Binding Name}"
+                       Detail="{Binding Tweet}"></ImageCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

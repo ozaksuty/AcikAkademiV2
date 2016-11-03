@@ -1,0 +1,24 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\acikakademiv2ders4\acikakademiv2ders4.winphone\obj\debug\intermediatexaml\acikakademiv2ders4.winphone.exe" HashGuid="e501bce2-b04a-8358-b7ac-89c920e962b7" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\acikakademiv2ders4\acikakademiv2ders4\bin\debug\acikakademiv2ders4.dll" HashGuid="3bd4897c-6683-ed25-31a9-9c406637ff61" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\acr.userdialogs.6.3.0\lib\portable-win+net45+wp8+win8+wpa81\acr.userdialogs.dll" HashGuid="5e7ea4b0-1a15-6a6e-d0a8-616baf9b816e" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\acr.userdialogs.6.3.0\lib\portable-win+net45+wp8+win8+wpa81\acr.userdialogs.interface.dll" HashGuid="fa5a7653-3cb1-732e-effe-69b2d0e4c242" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\linqtotwitter.4.1.0\lib\portable-net45+win+wpa81\linqtotwitter.xamarin.dll" HashGuid="3332bb1e-e1dd-7d3c-05d1-66b23af6314c" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\modernhttpclient.2.4.2\lib\portable-net45+winrt45+wp8+wpa81\modernhttpclient.dll" HashGuid="06558e2e-bf09-53c9-5fa3-375082b5eae2" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\splat.1.6.2\lib\portable-win81+wpa81\splat.dll" HashGuid="8c47f1b5-d710-655d-487e-2acdddbf986f" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\rx-core.2.2.5\lib\portable-win81+wpa81\system.reactive.core.dll" HashGuid="e88ff990-7aa8-b77f-93a1-598ee1f64e5f" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\rx-interfaces.2.2.5\lib\portable-win81+wpa81\system.reactive.interfaces.dll" HashGuid="2fd855ee-8440-f81f-a427-ceb8eb15ce8f" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\rx-linq.2.2.5\lib\portable-win81+wpa81\system.reactive.linq.dll" HashGuid="415e3b50-c164-f753-1f27-a0a2efe20748" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\rx-platformservices.2.2.5\lib\portable-win81+wpa81\system.reactive.platformservices.dll" HashGuid="af6ba9ad-5f77-bdaa-1d18-22248e6f3c99" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.carouselview.2.3.0-pre2\lib\wpa81\xamarin.forms.carouselview.dll" HashGuid="57c5e68a-6f32-5169-60ae-624c87c65895" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="94274a37-ad6c-fd1e-7bbb-eccc6cb7804c" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders4\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

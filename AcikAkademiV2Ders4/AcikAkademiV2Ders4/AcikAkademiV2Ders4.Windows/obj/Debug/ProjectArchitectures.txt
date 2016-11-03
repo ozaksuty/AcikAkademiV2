@@ -1,0 +1,2 @@
+C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders4\AcikAkademiV2Ders4\AcikAkademiV2Ders4.Windows\AcikAkademiV2Ders4.Windows.csproj;neutral
+C:\Users\Yigit\Desktop\AcikAkademi\AcikAkademiV2Ders4\AcikAkademiV2Ders4\AcikAkademiV2Ders4\AcikAkademiV2Ders4.csproj;neutral
