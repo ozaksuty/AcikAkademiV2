@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:i18n="clr-namespace:AcikAkademiV2Ders5.Localization;assembly=AcikAkademiV2Ders5"
+             x:Class="AcikAkademiV2Ders5.Views.LocalizePageXaml">
+  <ContentPage.Content>
+    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+      <TableView Intent="Form">
+        <TableRoot>
+          <TableSection Title="{i18n:Translate FormName}" >
+            <EntryCell Text="{i18n:Translate Name}" />
+            <EntryCell Text="{i18n:Translate Surname}" />
+            <EntryCell Text="{i18n:Translate Password}" Keyboard="Numeric" />
+            <ViewCell>
+              <Button Text="{i18n:TranslateExtension Text=Save}" />
+            </ViewCell>
+          </TableSection>
+        </TableRoot>
+      </TableView>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
