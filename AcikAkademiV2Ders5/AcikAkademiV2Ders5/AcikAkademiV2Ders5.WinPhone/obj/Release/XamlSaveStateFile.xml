@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\acikakademiv2ders5\acikakademiv2ders5\bin\release\acikakademiv2ders5.dll" HashGuid="2b5b3a97-c7c7-d102-5eaf-9ab73eefa0f4" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.core.dll" HashGuid="725dee27-7376-6787-2b92-d2b102c486d4" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="07994aa2-3382-4066-7150-6b749ac659d6" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="94274a37-ad6c-fd1e-7bbb-eccc6cb7804c" />
+    <ReferenceAssembly PathName="c:\users\yigit\desktop\acikakademi\acikakademiv2ders5\packages\xamarin.forms.2.3.2.127\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="9f5b8117-9053-1f26-a531-a25956bccca6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
