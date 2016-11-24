@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.xamarinpush.xamarin" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" />
+	<application android:label="AcikAkademiV2Ders7.Droid">
+    <meta-data android:name="onesignal_app_id" android:value="f8b5ffe8-33e3-47de-b0bc-c7fe05325f80" />
+    <meta-data android:name="onesignal_google_project_number" android:value="str:211973902557" />
+    <receiver android:name="com.onesignal.GcmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.companyname.example.shared.application.droid" />
+      </intent-filter>
+    </receiver>
+    <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+    <service android:name="com.onesignal.GcmIntentService" />
+    <service android:name="com.onesignal.SyncService" android:stopWithTask="false" />
+    <activity android:name="com.onesignal.PermissionsActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+  </application>
+</manifest>
