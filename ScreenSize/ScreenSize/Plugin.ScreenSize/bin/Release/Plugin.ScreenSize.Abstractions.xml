@@ -15,5 +15,10 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="T:Plugin.ScreenSize.Abstractions.ScreenSizeHelper">
+            <summary>
+            
+            </summary>
+        </member>
     </members>
 </doc>
